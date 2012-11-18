@@ -1,0 +1,9 @@
+Package: ws.hbang.noiblankshadows
+Name: No iBlank Shadows
+Depends: mobilesubstrate, com.microseconds.iblank
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Hide shadows behind iBlank icons
+Maintainer: thekirbylover <noiblankshadows@hbang.ws>
+Author: thekirbylover <noiblankshadows@hbang.ws>
+Section: Tweaks
